@@ -1,0 +1,5 @@
+User-Agents: *
+Allow: /
+
+
+sitemap: https://tutorial.nofluffdigital.com/sitemap.xml
