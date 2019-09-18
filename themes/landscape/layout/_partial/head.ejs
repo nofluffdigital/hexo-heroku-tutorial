@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-  <meta name="robots" content="noindex, nofollow">
-
   <meta charset="utf-8">
+
+  <meta name="robots" content="<%- page.robots ? page.robots : 'all' %>">
+
   <%- partial('google-analytics') %>
   <%
   var title = page.title;
