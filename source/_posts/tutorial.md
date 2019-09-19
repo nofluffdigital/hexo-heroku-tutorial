@@ -14,5 +14,3 @@ const helloWorld = () => {
   console.log('Hello World!');
 }
 ```
-
-![this is alt](/image/hexo-icon.png "this is a title")
