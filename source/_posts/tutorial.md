@@ -1,5 +1,6 @@
 ---
-title: New Post For Tutorial
+title: This is a new title
+description: This is a new better seo friendly description
 ---
 
 this is markdown post
