@@ -84,3 +84,9 @@ deploy:
 #sitemap
 sitemap:
     path: sitemap.xml
+
+#link
+
+nofollow:
+  enable: true
+  field: site
