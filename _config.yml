@@ -90,3 +90,5 @@ sitemap:
 nofollow:
   enable: true
   field: site
+  exclude:
+    - 'nofluffdigital.com'
