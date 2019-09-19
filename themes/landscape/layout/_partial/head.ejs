@@ -5,6 +5,8 @@
 
   <meta name="robots" content="<%- page.robots ? page.robots : 'all' %>">
 
+  <%- autoCanonical(config, page) %>
+
   <%- partial('google-analytics') %>
   <%
   var title = page.title;
