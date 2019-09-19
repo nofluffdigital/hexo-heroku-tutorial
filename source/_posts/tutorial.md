@@ -15,6 +15,4 @@ const helloWorld = () => {
 }
 ```
 
-![this is alt](/image/hexo-icon.png "this is title")
-
-![this is alt](https://nofluffdigital.com/images/blog/google-app-script-url-checker-tutorial/404-tutorial-feature-image.PNG "this is title")
+[This is a link](https://nofluffdigital.com/)
