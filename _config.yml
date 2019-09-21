@@ -56,7 +56,9 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  How-Tos: /how-tos
 tag_map:
+  Learning: /learning
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date

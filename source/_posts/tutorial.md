@@ -1,6 +1,8 @@
 ---
 title: This is a new title
 description: This is a new better seo friendly description
+category: How-Tos
+tag: Learning
 ---
 
 this is markdown post
