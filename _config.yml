@@ -94,3 +94,6 @@ nofollow:
   field: site
   exclude:
     - 'nofluffdigital.com'
+
+alias:
+  blog/how-tos/tutorial/: blog/how-tos/unique-tutorial/

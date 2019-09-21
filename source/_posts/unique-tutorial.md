@@ -20,3 +20,5 @@ const helloWorld = () => {
 [This is a link](https://nofluffdigital.com/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pb4SxgwCR_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Old url](/blog/how-tos/tutorial/)
