@@ -23,4 +23,4 @@ const helloWorld = () => {
 
 [Old url](/blog/how-tos/tutorial/)
 
-<a href="#" onClick="ga('send', 'event', { eventCategory: 'test', eventAction: 'click', eventLabel: 'test-download', eventValue: 1});">Download PDF</a>
+<a href="#.pdf" onClick="ga('send', 'event', { eventCategory: 'test', eventAction: 'click', eventLabel: 'test-download', eventValue: 1});">Download PDF</a>
