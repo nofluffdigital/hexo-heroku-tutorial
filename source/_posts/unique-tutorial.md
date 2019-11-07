@@ -22,3 +22,5 @@ const helloWorld = () => {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pb4SxgwCR_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Old url](/blog/how-tos/tutorial/)
+
+<a href="/downloads/example-whitepaper.pdf" onClick="ga('send', 'event', { eventCategory: 'test', eventAction: 'click', eventLabel: 'test-download', eventValue: 1});">Download PDF</a>
